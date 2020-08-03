@@ -8,7 +8,17 @@ Duration: 2 Week Sprint
 
 Sponsorship Hub is a web application that stores data from events such as festivals and gives brands interested in sponsoring those events the ability to search for the perfect fit using filters. Users may also create and edit events as desired with specific access that can be granted from the Admin. Sponsorship Hub stores collected data to reduce repetitive work for the researchers and connects brands with events quicker and easier.
 
-To see the fully functional site, please visit: [http://sponsorshiphub.herokuapp.com](http://sponsorshiphub.herokuapp.com)
+To see the fully functional site, please visit: [https://sponsorship-hub-heather.herokuapp.com/](https://sponsorship-hub-heather.herokuapp.com/)
+
+Use the <strong>username:</strong> test@test.com and <strong>password:</strong> Test. Otherwise you will not be able to access the applictions contents.
+
+## Heather Baird's work on this project
+
+* Creation of Event page and sub components including Get request for One Event, SQL query to database, displaying information on DOM, styling, and implementation of Recarts.js
+
+* Creation of Admin page and sub components including Get request for all users, SQL query to database, displaying information on DOM, access level logic, styling
+
+* Advanced search SQL query to database and logic
 
 ## Screenshots of Sponsorship Hub
 
